@@ -1,6 +1,6 @@
 # JENKINS FILE
 
-A Jenkinsfile is a text file that contains the definition of a Jenkins Pipeline and is checked into source control. Jenkinsfile can be defined by using a domain specific language (DSL). It is written based on two syntax’s, namely:
+A Jenkinsfile is a text file that contains the definition of a Jenkins Pipeline and is checked into source control. Jenkinsfile can be defined by using a domain specific language (DSL). It is written based on two syntax’s, namely
 
 1. Declarative
 2. Scripted
